@@ -52,6 +52,6 @@ DevSorteio é um projeto simples que permite que você sorteie um número aleat�
 
 Este projeto é de código aberto e está sob a licença Licença MIT. Você é livre para usar, modificar e distribuir este projeto de acordo com os termos da licença.
 
-## :technologist_light_skin_tone: Autor
+## :man_technologist: Autor
 
 Feito com ♥ por Anderson Leite :wave: [Entre em contato!](https://www.linkedin.com/in/andersondiasleite/)
