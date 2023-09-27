@@ -8,6 +8,7 @@
 header, .dado {
     width: 100%;
     max-width: 583px;
+    padding: 10px;
 }
 
 body {
