@@ -1,8 +1,8 @@
-[Projeto ONLINE, experimente agora](https://anderdev-github.github.io/) <br>
+[Projeto ONLINE, experimente agora](https://anderdev-github.github.io/DevSorteio/) <br>
 
 
 <h3 align="center">
-  Seja bem-vindo ao projeto DevSorteio!
+  Seja bem-vindo ao meu projeto DevSorteio!
 </h3>
 
 <br>
@@ -17,7 +17,7 @@
 
 <br>
 
-<img alt="Layout" src="#">
+<img alt="Layout" src="./assets/img-project.png">
 <br>
 
 
@@ -25,7 +25,7 @@
 
 DevSorteio é um projeto simples que permite que você sorteie um número aleatório dentro de um intervalo especificado. Este projeto é uma página da web criada com HTML, CSS e JavaScript.
 
-## :tutorial: Como Usar
+## :open_book: Como Usar
 
 1. Clone ou baixe este repositório em sua máquina local.
 
@@ -41,17 +41,17 @@ DevSorteio é um projeto simples que permite que você sorteie um número aleat�
 
 7. Você pode repetir o processo quantas vezes desejar, inserindo novos valores no campo de entrada e clicando em "Sortear" novamente.
 
-## :computer: Tecnologias
+## :zap: Tecnologias
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) : Página HTML principal que contém os elementos da interface do usuário.
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) : Arquivo CSS que define o estilo da página.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) : Arquivo JavaScript que contém a lógica para gerar números aleatórios e interagir com a página.
 <br>
 
-## :license: Licença
+## :balance_scale: Licença
 
 Este projeto é de código aberto e está sob a licença Licença MIT. Você é livre para usar, modificar e distribuir este projeto de acordo com os termos da licença.
 
-## :developer: Autor
+## :technologist_light_skin_tone: Autor
 
 Feito com ♥ por Anderson Leite :wave: [Entre em contato!](https://www.linkedin.com/in/andersondiasleite/)

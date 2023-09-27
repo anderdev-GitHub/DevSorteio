@@ -33,7 +33,7 @@ main, label {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
 }
 
 input {
@@ -55,6 +55,10 @@ input[type=number]::-webkit-inner-spin-button,
 
 input::placeholder {
     color: #000000;
+}
+
+.botao-sorteio {
+    padding-top: 20px
 }
 
 button {
